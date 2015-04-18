@@ -1,0 +1,61 @@
+Arcomage
+
+===========================================
+Version: 1.0
+Producer: Li Kezhi
+===========================================
+
+Arcomage is a computerized card game first produced by The 3DO Company. It originated as a minigame in Might and Magic VII: For Blood and Honor and Might and Magic VIII: Day of the Destroyer, in which it was used to gamble for in-game money or to complete a quest to win games in every tavern. 3DO later released it as a stand-alone game in 2000. Arcomage uses the fantasy themes of the game in which it is set.
+
+Arcomage was developed by Stickman Games.
+
+And this edition was created by Li Kezhi.
+
+-------------------------------------------
+General introduction
+-------------------------------------------
+
+Arcomage takes the form of a tabletop game, in which there are two players, each with a deck of cards, a "tower" and a "wall", as well as several other variables that determine whether they win or lose, and what cards they can play. As Might and Magic is a single-player game, one would always play against an AI opponent - making the game relatively easy to win.
+
+-------------------------------------------
+How to play the game?
+-------------------------------------------
+
+Players take it in turns to:
+
+*  Draw the appropriate number of cards to complete their 6-part deck (one or more cards would have been played or discarded during their previous turn)
+*  Either play or discard a card, depending on their options - in some cases discard will be the only option available, as the player might not have the appropriate amount of "gems", "bricks" or "recruits".
+*  If their chosen card allows it, play again and/or choose a card to discard.
+
+-------------------------------------------
+What's the tavern?
+-------------------------------------------
+
+Every tavern has its different victory conditions, so players must adapt their styles for different situations. A game could end in one of the following ways:
+
+*  A player's tower has been reduced to 0
+*  A player's tower has achieved a "height" of X (value depends on Tavern)
+*  A player accumulates X amount of resources (value depends on Tavern)
+
+-------------------------------------------
+What's on the deck?
+-------------------------------------------
+
+As well as having a "Tower", "Wall" and Deck of Cards, each player also has:
+
+*  "Quarry" - controls how many "bricks" are gained each turn
+*  "Bricks" - spent on brick cards
+*  "Magic" - controls how many "gems" are gained each turn
+*  "Gems" - spent on gem cards
+*  "Dungeon" - controls how many "recruits" are gained each turn
+*  "Recruits" - spent on recruit cards
+
+-------------------------------------------
+What's the cards?
+-------------------------------------------
+
+Arcomage employs a wide range of cards, each with their own name, effects and picture. Examples include:
+
+*  Faerie (recruit card): 2 damage (to enemy tower/wall); play Again. Cost: 1 recruit.
+*  Portcullis (brick card): +5 wall; +1 dungeon. Cost: 9 bricks.
+*  Sanctuary (gem card): + 10 tower; +5 wall; gain 5 recruits. Cost: 15 gems.$
