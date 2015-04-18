@@ -1,0 +1,117 @@
+#ifndef __CARDSLIB_H_
+#define __CARDSLIB_H_
+
+#include "Cards.h"
+
+//Initication of all the cards data:
+extern Card cardlibrary[3][34];
+extern Card* card_bricks;
+extern Card* card_gems;
+extern Card* card_recruits;
+
+void init_cards();
+
+int Effect_B0(Condition mine, Condition yours);
+int Effect_B1(Condition mine, Condition yours);
+int Effect_B2(Condition mine, Condition yours);
+int Effect_B3(Condition mine, Condition yours);
+int Effect_B4(Condition mine, Condition yours);
+int Effect_B5(Condition mine, Condition yours);
+int Effect_B6(Condition mine, Condition yours);
+int Effect_B7(Condition mine, Condition yours);
+int Effect_B8(Condition mine, Condition yours);
+int Effect_B9(Condition mine, Condition yours);
+int Effect_B10(Condition mine, Condition yours);
+int Effect_B11(Condition mine, Condition yours);
+int Effect_B12(Condition mine, Condition yours);
+int Effect_B13(Condition mine, Condition yours);
+int Effect_B14(Condition mine, Condition yours);
+int Effect_B15(Condition mine, Condition yours);
+int Effect_B16(Condition mine, Condition yours);
+int Effect_B17(Condition mine, Condition yours);
+int Effect_B18(Condition mine, Condition yours);
+int Effect_B19(Condition mine, Condition yours);
+int Effect_B20(Condition mine, Condition yours);
+int Effect_B21(Condition mine, Condition yours);
+int Effect_B22(Condition mine, Condition yours);
+int Effect_B23(Condition mine, Condition yours);
+int Effect_B24(Condition mine, Condition yours);
+int Effect_B25(Condition mine, Condition yours);
+int Effect_B26(Condition mine, Condition yours);
+int Effect_B27(Condition mine, Condition yours);
+int Effect_B28(Condition mine, Condition yours);
+int Effect_B29(Condition mine, Condition yours);
+int Effect_B30(Condition mine, Condition yours);
+int Effect_B31(Condition mine, Condition yours);
+int Effect_B32(Condition mine, Condition yours);
+int Effect_B33(Condition mine, Condition yours);
+int Effect_G0(Condition mine, Condition yours);
+int Effect_G1(Condition mine, Condition yours);
+int Effect_G2(Condition mine, Condition yours);
+int Effect_G3(Condition mine, Condition yours);
+int Effect_G4(Condition mine, Condition yours);
+int Effect_G5(Condition mine, Condition yours);
+int Effect_G6(Condition mine, Condition yours);
+int Effect_G7(Condition mine, Condition yours);
+int Effect_G8(Condition mine, Condition yours);
+int Effect_G9(Condition mine, Condition yours);
+int Effect_G10(Condition mine, Condition yours);
+int Effect_G11(Condition mine, Condition yours);
+int Effect_G12(Condition mine, Condition yours);
+int Effect_G13(Condition mine, Condition yours);
+int Effect_G14(Condition mine, Condition yours);
+int Effect_G15(Condition mine, Condition yours);
+int Effect_G16(Condition mine, Condition yours);
+int Effect_G17(Condition mine, Condition yours);
+int Effect_G18(Condition mine, Condition yours);
+int Effect_G19(Condition mine, Condition yours);
+int Effect_G20(Condition mine, Condition yours);
+int Effect_G21(Condition mine, Condition yours);
+int Effect_G22(Condition mine, Condition yours);
+int Effect_G23(Condition mine, Condition yours);
+int Effect_G24(Condition mine, Condition yours);
+int Effect_G25(Condition mine, Condition yours);
+int Effect_G26(Condition mine, Condition yours);
+int Effect_G27(Condition mine, Condition yours);
+int Effect_G28(Condition mine, Condition yours);
+int Effect_G29(Condition mine, Condition yours);
+int Effect_G30(Condition mine, Condition yours);
+int Effect_G31(Condition mine, Condition yours);
+int Effect_G32(Condition mine, Condition yours);
+int Effect_G33(Condition mine, Condition yours);
+int Effect_R0(Condition mine, Condition yours);
+int Effect_R1(Condition mine, Condition yours);
+int Effect_R2(Condition mine, Condition yours);
+int Effect_R3(Condition mine, Condition yours);
+int Effect_R4(Condition mine, Condition yours);
+int Effect_R5(Condition mine, Condition yours);
+int Effect_R6(Condition mine, Condition yours);
+int Effect_R7(Condition mine, Condition yours);
+int Effect_R8(Condition mine, Condition yours);
+int Effect_R9(Condition mine, Condition yours);
+int Effect_R10(Condition mine, Condition yours);
+int Effect_R11(Condition mine, Condition yours);
+int Effect_R12(Condition mine, Condition yours);
+int Effect_R13(Condition mine, Condition yours);
+int Effect_R14(Condition mine, Condition yours);
+int Effect_R15(Condition mine, Condition yours);
+int Effect_R16(Condition mine, Condition yours);
+int Effect_R17(Condition mine, Condition yours);
+int Effect_R18(Condition mine, Condition yours);
+int Effect_R19(Condition mine, Condition yours);
+int Effect_R20(Condition mine, Condition yours);
+int Effect_R21(Condition mine, Condition yours);
+int Effect_R22(Condition mine, Condition yours);
+int Effect_R23(Condition mine, Condition yours);
+int Effect_R24(Condition mine, Condition yours);
+int Effect_R25(Condition mine, Condition yours);
+int Effect_R26(Condition mine, Condition yours);
+int Effect_R27(Condition mine, Condition yours);
+int Effect_R28(Condition mine, Condition yours);
+int Effect_R29(Condition mine, Condition yours);
+int Effect_R30(Condition mine, Condition yours);
+int Effect_R31(Condition mine, Condition yours);
+int Effect_R32(Condition mine, Condition yours);
+int Effect_R33(Condition mine, Condition yours);
+
+#endif
